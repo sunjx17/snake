@@ -1,0 +1,2 @@
+:\64\usb\readme.txt'
+:\64\usb\setupdir\0009\readme.txt'
